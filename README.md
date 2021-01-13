@@ -58,4 +58,4 @@
 Clone our project:
 `$ git clone https://github.com/d0lev/Weighted-Directed-Graph.git`
 
-<a href="https://github.com/d0lev/Weighted-Directed-Graph/wiki" title="Wiki"><img src="https://t3.ftcdn.net/jpg/00/37/56/34/240_F_37563459_R1WRmGUm1zvlRpxloYYV9D01BQtOGiPX.jpg" alt="wiki" width="100px" height="30px"></a>
+<a href="https://github.com/DorAzaria/Weighted-Directed-Graph/wiki" title="Wiki"><img src="https://t3.ftcdn.net/jpg/00/37/56/34/240_F_37563459_R1WRmGUm1zvlRpxloYYV9D01BQtOGiPX.jpg" alt="wiki" width="100px" height="30px"></a>
